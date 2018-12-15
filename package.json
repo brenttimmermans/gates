@@ -1,0 +1,13 @@
+{
+  "name": "gates",
+  "version": "0.0.1",
+  "description": "Booleans!",
+  "repository": "Brent-T/gates",
+  "license": "MIT",
+  "author": {
+		"name": "Brent Timmermans",
+		"email": "brenttimmermans7@gmail.com"
+	},
+  "main": "index.js",
+  "scripts": {}
+}
