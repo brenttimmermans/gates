@@ -1,0 +1,161 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`"AND" "" 1`] = `false`;
+
+exports[`"AND" "not-an-empty-string" 1`] = `true`;
+
+exports[`"AND" [] 1`] = `true`;
+
+exports[`"AND" [Error] 1`] = `true`;
+
+exports[`"AND" [false, false] 1`] = `false`;
+
+exports[`"AND" [false] 1`] = `false`;
+
+exports[`"AND" [true, false] 1`] = `false`;
+
+exports[`"AND" [true, true] 1`] = `true`;
+
+exports[`"AND" [true] 1`] = `false`;
+
+exports[`"AND" -1 1`] = `true`;
+
+exports[`"AND" 1 1`] = `true`;
+
+exports[`"AND" NaN 1`] = `false`;
+
+exports[`"AND" false 1`] = `false`;
+
+exports[`"AND" null 1`] = `false`;
+
+exports[`"AND" true 1`] = `true`;
+
+exports[`"AND" undefined 1`] = `false`;
+
+exports[`"NAND" "" 1`] = `true`;
+
+exports[`"NAND" "not-an-empty-string" 1`] = `false`;
+
+exports[`"NAND" [] 1`] = `false`;
+
+exports[`"NAND" [Error] 1`] = `false`;
+
+exports[`"NAND" [false, false] 1`] = `true`;
+
+exports[`"NAND" [false] 1`] = `true`;
+
+exports[`"NAND" [true, false] 1`] = `true`;
+
+exports[`"NAND" [true, true] 1`] = `false`;
+
+exports[`"NAND" [true] 1`] = `true`;
+
+exports[`"NAND" -1 1`] = `false`;
+
+exports[`"NAND" 1 1`] = `false`;
+
+exports[`"NAND" NaN 1`] = `true`;
+
+exports[`"NAND" false 1`] = `true`;
+
+exports[`"NAND" null 1`] = `true`;
+
+exports[`"NAND" true 1`] = `false`;
+
+exports[`"NAND" undefined 1`] = `true`;
+
+exports[`"NOR" "" 1`] = `false`;
+
+exports[`"NOR" "not-an-empty-string" 1`] = `true`;
+
+exports[`"NOR" [] 1`] = `true`;
+
+exports[`"NOR" [Error] 1`] = `true`;
+
+exports[`"NOR" [false, false] 1`] = `false`;
+
+exports[`"NOR" [false] 1`] = `false`;
+
+exports[`"NOR" [true, false] 1`] = `false`;
+
+exports[`"NOR" [true, true] 1`] = `true`;
+
+exports[`"NOR" [true] 1`] = `false`;
+
+exports[`"NOR" -1 1`] = `true`;
+
+exports[`"NOR" 1 1`] = `true`;
+
+exports[`"NOR" NaN 1`] = `false`;
+
+exports[`"NOR" false 1`] = `false`;
+
+exports[`"NOR" null 1`] = `false`;
+
+exports[`"NOR" true 1`] = `true`;
+
+exports[`"NOR" undefined 1`] = `false`;
+
+exports[`"NOT" "" 1`] = `true`;
+
+exports[`"NOT" "not-an-empty-string" 1`] = `false`;
+
+exports[`"NOT" [] 1`] = `false`;
+
+exports[`"NOT" [Error] 1`] = `false`;
+
+exports[`"NOT" [false, false] 1`] = `false`;
+
+exports[`"NOT" [false] 1`] = `false`;
+
+exports[`"NOT" [true, false] 1`] = `false`;
+
+exports[`"NOT" [true, true] 1`] = `false`;
+
+exports[`"NOT" [true] 1`] = `false`;
+
+exports[`"NOT" -1 1`] = `false`;
+
+exports[`"NOT" 1 1`] = `false`;
+
+exports[`"NOT" NaN 1`] = `true`;
+
+exports[`"NOT" false 1`] = `true`;
+
+exports[`"NOT" null 1`] = `true`;
+
+exports[`"NOT" true 1`] = `false`;
+
+exports[`"NOT" undefined 1`] = `true`;
+
+exports[`"OR" "" 1`] = `false`;
+
+exports[`"OR" "not-an-empty-string" 1`] = `true`;
+
+exports[`"OR" [] 1`] = `false`;
+
+exports[`"OR" [Error] 1`] = `true`;
+
+exports[`"OR" [false, false] 1`] = `false`;
+
+exports[`"OR" [false] 1`] = `true`;
+
+exports[`"OR" [true, false] 1`] = `true`;
+
+exports[`"OR" [true, true] 1`] = `true`;
+
+exports[`"OR" [true] 1`] = `true`;
+
+exports[`"OR" -1 1`] = `true`;
+
+exports[`"OR" 1 1`] = `true`;
+
+exports[`"OR" NaN 1`] = `false`;
+
+exports[`"OR" false 1`] = `false`;
+
+exports[`"OR" null 1`] = `false`;
+
+exports[`"OR" true 1`] = `true`;
+
+exports[`"OR" undefined 1`] = `false`;

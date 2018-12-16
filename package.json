@@ -5,9 +5,14 @@
   "repository": "Brent-T/gates",
   "license": "MIT",
   "author": {
-		"name": "Brent Timmermans",
-		"email": "brenttimmermans7@gmail.com"
-	},
+    "name": "Brent Timmermans",
+    "email": "brenttimmermans7@gmail.com"
+  },
   "main": "index.js",
-  "scripts": {}
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^23.6.0"
+  }
 }
